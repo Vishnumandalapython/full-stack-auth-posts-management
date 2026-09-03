@@ -1,0 +1,1 @@
+# full-stack-auth-posts-management
